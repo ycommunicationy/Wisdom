@@ -1,1 +1,3 @@
 # Wisdom
+
+Continuous personal development
